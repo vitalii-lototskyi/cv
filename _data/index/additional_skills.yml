@@ -61,16 +61,16 @@
   i18n: google
   url: https://www.docker.com
   img: /static/assets/img/landing/docker.jpg
-  desc: Open platform to build, ship, and run distributed applications.
+  desc: Open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 
 - name: Linux
   i18n: google
   url: https://www.linux.org
   img: /static/assets/img/landing/linux.png
-  desc: Family of operating systems built around the Linux kernel.
+  desc: Family of free and open-source software operating systems built around the Linux kernel.
 
 - name: Wordpress
   i18n: google
   url: https://wordpress.org
   img: /static/assets/img/landing/wordpress.png
-  desc: Free and open-source content management system
+  desc: Free and open-source content management system.
