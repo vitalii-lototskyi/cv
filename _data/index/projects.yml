@@ -4,9 +4,9 @@
 - name: Satoshi Powered AI
   i18n: jalpc
   gh_user: 
-  repo: 
+  repo: https://satoshipowered.ai
   img: /static/assets/img/landing/satoshi.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Project where i use GreenSock animation library and pure html, css, js
 
 - name: Python
   i18n: cpython
