@@ -6,17 +6,23 @@
   gh_user: 
   repo: https://satoshipowered.ai
   img: /static/assets/img/landing/satoshi.png
-  desc: Project where i use GreenSock animation library and pure html, css, js
+  desc: Project where i use GreenSock animation library and pure html, css, js.
 
-- name: Python
+- name: Lemis Place
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: 
+  repo: http://lemisplace.com/
+  img: /static/assets/img/landing/lemisplace.png
+  desc: Interesting project with horizontal scrolling.
 
-- name: Google
+- name: Order Flow Trading
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: https://www.orderflowtrading.eu
+  img: /static/assets/img/landing/orderflow.png
+  desc: Platform for traiding company.
+
+- name: GoFunded
+  i18n: google
+  url: http://gofunded.org
+  img: /static/assets/img/landing/gofunded.png
+  desc: Helped to develop a new version.
