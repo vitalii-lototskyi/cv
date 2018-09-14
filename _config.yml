@@ -2,7 +2,7 @@
 
 # Website settings
 title: Vitalii Lototskyi
-description: Vitalii`s blog,use github pages.
+description: Vitalii`s cv.
 keywords: Vitalii,Lototskyi,blog,Goaranos,github,gh-pages
 baseurl:  /cv # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://vitalii-lototskyi.github.io/cv/  # url should be 'http://<github_username>.github.io/homepage' as before
