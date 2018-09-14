@@ -26,3 +26,45 @@
   url: https://graphql.org
   img: /static/assets/img/landing/graphql.png
   desc: A query language for REST API.
+
+- name: Redis
+  i18n: google
+  url: https://redis.io
+  img: /static/assets/img/landing/redis.svg
+  desc: Open source, in-memory data structure store, used as a database, cache and message broker.
+
+- name: Mongoose
+  i18n: google
+  url: https://mongoosejs.com
+  img: /static/assets/img/landing/mongoose.png
+  desc: Eelegant mongodb object modeling for node.js.
+
+- name: Socket.io
+  i18n: google
+  url: https://socket.io
+  img: /static/assets/img/landing/socket.png
+  desc: The fastest and most reliable real-time engine.
+
+- name: TypeORM
+  i18n: google
+  url: http://typeorm.io/#/
+  img: /static/assets/img/landing/typeorm.png
+  desc: ORM for TypeScript and JavaScript.
+
+- name: Passport
+  i18n: google
+  url: http://www.passportjs.org
+  img: /static/assets/img/landing/passport.png
+  desc: Extremely flexible and modular authentication middleware.
+
+- name: Wordpress
+  i18n: google
+  url: https://wordpress.org
+  img: /static/assets/img/landing/wordpress.png
+  desc: Free and open-source content management system
+
+- name: Linux
+  i18n: google
+  url: https://www.linux.org
+  img: /static/assets/img/landing/unix.png
+  desc: Family of free and open-source software operating systems built around the Linux kernel.
