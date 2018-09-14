@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: database
-    - name: node-js
+    - name: fa-database
+    - name: fa-node-js
   skill_icon2:
-    - name: vuejs
-    - name: angular
+    - name: fa-vuejs
+    - name: fa-angular
   desc: At the moment I am a web developer. I started my work as a hobby, which was backed up by a strong friendship relationship. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
 
 # comment
