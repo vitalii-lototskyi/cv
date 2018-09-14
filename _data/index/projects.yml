@@ -12,7 +12,7 @@
   i18n: cpython
   gh_user: 
   repo: http://lemisplace.com/
-  img: /static/assets/img/landing/lemisplace.png
+  img: /static/assets/img/landing/lemisplace.jpg
   desc: Interesting project with horizontal scrolling.
 
 - name: Order Flow Trading
