@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, Motivation, HTML5, SCSS, VueJS, AngularJs, NodeJs, Sleeping
-percentage: 100, 99, 80, 70, 75, 20, 85, 30
+aspects: Git, Motivation, HTML5, SCSS, VueJS, AngularJs, Sleeping, NodeJs, TypeScript 
+percentage: 95, 90, 80, 70, 75, 20, 85, 30, 95
