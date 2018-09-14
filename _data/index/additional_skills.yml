@@ -1,28 +1,28 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Satoshi Powered AI
+- name: Express
   i18n: jalpc
   gh_user: 
-  repo: https://satoshipowered.ai
-  img: /static/assets/img/landing/satoshi.png
-  desc: Project where i use GreenSock animation library and pure html, css, js.
+  repo: https://expressjs.com
+  img: /static/assets/img/landing/express.jpg
+  desc:  Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
-- name: Lemis Place
+- name: Nest
   i18n: cpython
   gh_user: 
-  repo: http://lemisplace.com/
-  img: /static/assets/img/landing/lemisplace.jpg
-  desc: Interesting project with horizontal scrolling.
+  repo: https://nestjs.com
+  img: /static/assets/img/landing/nestjs.jpeg
+  desc: A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript.
 
-- name: Order Flow Trading
+- name: Django
   i18n: google
-  url: https://www.orderflowtrading.eu
-  img: /static/assets/img/landing/orderflow.png
-  desc: Platform for traiding company.
+  url: https://www.djangoproject.com
+  img: /static/assets/img/landing/django.png
+  desc: The Web framework for perfectionists with deadlines.
 
-- name: GoFunded
+- name: GraphQl
   i18n: google
-  url: http://gofunded.org
-  img: /static/assets/img/landing/gofunded.png
-  desc: Helped to develop a new version.
+  url: https://graphql.org
+  img: /static/assets/img/landing/graphql.png
+  desc: A query language for REST API.
