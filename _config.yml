@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-code-fork
     - name: fa-server
-  desc: At the moment I am a web developer. I started my work as a hobby, which was backed up by a strong friendship relationship. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
+  desc: At the moment I am a web developer. I started my work as a hobby. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
