@@ -2506,13 +2506,13 @@ body {
     background-repeat:  no-repeat;
   }
   .carousel {
-    height: 470px;
+    height: 600px;
   }
   .carousel-caption {
     z-index: 10;
   }
   .carousel .item {
-    height: 470px;
+    height: 600px;
     background-color: #777;
   }
   .carousel-inner > .item > img {
@@ -2520,7 +2520,8 @@ body {
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 470px;
+    height: 600px;
+    background-size: contain;
   }
   .carousel-fade {
     .carousel-inner {
