@@ -21,8 +21,8 @@
   img: /static/assets/img/landing/orderflow.png
   desc: Platform for traiding company.
 
-- name: GoFunded
-  i18n: google
-  url: http://gofunded.org
-  img: /static/assets/img/landing/gofunded.png
-  desc: Helped to develop a new version.
+# - name: GoFunded
+#   i18n: google
+#   url: http://gofunded.org
+#   img: /static/assets/img/landing/gofunded.png
+#   desc: Helped to develop a new version.
