@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs
-aspects: Git, Motivation, HTML5, SCSS, VueJS, AngularJs, Sleeping, NodeJs, TypeScript, SQL/NoSQL
-percentage: 95, 90, 80, 70, 75, 20, 10, 85, 95, 70
+id: cs
+aspects: Git, Motivation, HTML5/CSS, Vue.js, Sleeping, Node.js, TypeScript, SQL/NoSQL, Communicative, JavaScript
+percentage: 95, 90, 80, 70, 10, 60, 80, 60, 95, 90
