@@ -3,26 +3,26 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Satoshi Powered AI
   i18n: jalpc
-  gh_user: 
+  gh_user:
   repo: https://satoshipowered.ai
   img: /static/assets/img/landing/satoshi.png
   desc: Project where i use GreenSock animation library and pure html, css, js.
 
 - name: Lemis Place
   i18n: cpython
-  gh_user: 
+  gh_user:
   repo: http://lemisplace.com/
   img: /static/assets/img/landing/lemisplace.jpg
   desc: Interesting project with horizontal scrolling.
 
-- name: Order Flow Trading
+- name: GoFunded
   i18n: google
-  url: https://www.orderflowtrading.eu
-  img: /static/assets/img/landing/orderflow.png
-  desc: Platform for traiding company.
+  url: http://gofunded.org
+  img: /static/assets/img/landing/gofunded.png
+  desc: Helped to develop a new version.
 
-# - name: GoFunded
-#   i18n: google
-#   url: http://gofunded.org
-#   img: /static/assets/img/landing/gofunded.png
-#   desc: Helped to develop a new version.
+- name: Radem Concept
+  i18n: google
+  url: https://radem-concept.com/
+  img: /static/assets/img/landing/radem.png
+  desc: E-commerce website.
