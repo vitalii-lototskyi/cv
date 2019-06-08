@@ -29,10 +29,24 @@
   icon: fa-plus-square
 
 - name:
+    detail: Freelance
+    i18n: company_b
+  desc:
+    detail: Working some time as a freelancer. HTML/CSS/JS developer.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2016
+    i18n: company_b_date
+  job:
+    detail: Freelancer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: VeDe LLC
     i18n: company_b
   desc:
-    detail: At the moment working as a Node.js/Vue.js developer
+    detail: At the moment working as a Wordpress/Node.js/Vue.js/DevOps engineer.
     i18n: company_b_desc
   date:
     detail: April. 2017
