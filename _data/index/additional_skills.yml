@@ -54,13 +54,13 @@
 - name: Ansible
   i18n: google
   url: https://www.ansible.com/
-  img: /static/assets/img/landing/ansible.jpg
+  img: /static/assets/img/landing/ansible.png
   desc: Ansible is a universal language, unraveling the mystery of how work gets done. Turn tough tasks into repeatable playbooks. Roll out enterprise-wide protocols with the push of a button.
 
 - name: Terraform
   i18n: google
   url: https://www.terraform.io/
-  img: /static/assets/img/landing/terraform.jpg
+  img: /static/assets/img/landing/terraform.png
   desc: Write, Plan, and Create Infrastructure as Code.
 
 - name: Linux
