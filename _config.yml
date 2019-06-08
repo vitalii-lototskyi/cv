@@ -15,12 +15,12 @@ author:  # change following line to your infomation.
   name: Vitalii Lototskyi  # Be used at blog posts' author.
   first_name: Vitalii  # Be used at index page about me section.
   last_name: Lototskyi  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/id.jpg  # upload your avatar at directory and edit it.
   github_username:   # Leave blank if you don't have now
   linkedin_id: vitalii-lototsky-b84a75142 # Leave blank if you don't have now
   facebook_username: vitaliy.lototsky  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: vitali.lototskyi@gmail.com  # Leave blank if you don't have now
+  email: vlototskyi@icloud.com  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-code-fork
     - name: fa-server
-  desc: At the moment I am a web developer. I started my work as a hobby. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
+  desc: At the moment I am working as a full stack web developer. I started my work as a hobby. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
