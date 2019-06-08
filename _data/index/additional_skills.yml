@@ -3,23 +3,23 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Express
   i18n: jalpc
-  gh_user: 
+  gh_user:
   repo: https://expressjs.com
   img: /static/assets/img/landing/express.jpg
-  desc:  Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+  desc: Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
 - name: Nest
   i18n: cpython
-  gh_user: 
+  gh_user:
   repo: https://nestjs.com
   img: /static/assets/img/landing/nestjs.jpeg
   desc: A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript.
 
-- name: Django
+- name: Sails
   i18n: google
   url: https://www.djangoproject.com
   img: /static/assets/img/landing/django.png
-  desc: The Web framework for perfectionists with deadlines.
+  desc: The inspiration and philosophies behind the framework. Sails makes it easy to build custom, enterprise-grade Node.js apps.
 
 - name: GraphQl
   i18n: google
@@ -33,23 +33,11 @@
   img: /static/assets/img/landing/redis.svg
   desc: Open source, in-memory data structure store, used as a database, cache and message broker.
 
-- name: Mongoose
-  i18n: google
-  url: https://mongoosejs.com
-  img: /static/assets/img/landing/mongoose.png
-  desc: Eelegant mongodb object modeling for node.js.
-
 - name: Socket.io
   i18n: google
   url: https://socket.io
   img: /static/assets/img/landing/socket.png
   desc: The fastest and most reliable real-time engine.
-
-- name: TypeORM
-  i18n: google
-  url: http://typeorm.io/#/
-  img: /static/assets/img/landing/typeorm.png
-  desc: ORM for TypeScript and JavaScript.
 
 - name: Passport
   i18n: google
@@ -62,6 +50,18 @@
   url: https://www.docker.com
   img: /static/assets/img/landing/docker.jpg
   desc: Open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+
+- name: Ansible
+  i18n: google
+  url: https://www.ansible.com/
+  img: https://www.ansible.com/hubfs/Ansible-Mark-Large-RGB-Black.png
+  desc: Ansible is a universal language, unraveling the mystery of how work gets done. Turn tough tasks into repeatable playbooks. Roll out enterprise-wide protocols with the push of a button.
+
+- name: Terraform
+  i18n: google
+  url: https://www.terraform.io/
+  img: https://www.terraform.io/assets/images/og-image-8b3e4f7d.png
+  desc: Write, Plan, and Create Infrastructure as Code.
 
 - name: Linux
   i18n: google
