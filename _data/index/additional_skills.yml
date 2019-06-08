@@ -19,7 +19,7 @@
   i18n: google
   url: https://www.djangoproject.com
   img: /static/assets/img/landing/sails.png
-  desc: The inspiration and philosophies behind the framework. Sails makes it easy to build custom, enterprise-grade Node.js apps.
+  desc: Sails framework makes it easy to build custom, enterprise-grade Node.js apps.
 
 - name: GraphQl
   i18n: google
