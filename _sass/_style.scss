@@ -2821,3 +2821,11 @@ body {
   padding-right: 5px;
   padding-left: 5px;
 }
+
+.carousel-indicators{
+  display:none !important;
+}
+
+.landing-page .carousel-control.left, .landing-page .carousel-control.right{
+  display: none !important;
+}
