@@ -1,18 +1,17 @@
 # links section data
 - last_name: GitLab
-  first_name: 
+  first_name:
   desc:
   website: https://gitlab.com/Goaranos
-  email: vitali.lototsky@gmail.com
+  email: vlototskyi@icloud.com
 
-- last_name: VeDe LLC
+- last_name: Linkedin
   first_name:
-  desc: Company
-  website: https://vede.in.ua/en/
-  email: support@vede.in.ua
+  desc:
+  website: https://www.linkedin.com/in/vitalii-lototsky-b84a75142/
 
 - last_name: GitHub
-  first_name: 
-  desc: 
+  first_name:
+  desc:
   website: https://github.com/vitalii-lototskyi
-  email: vitali.lototsky@gmail.com
+  email: vlototsky@icloud.com
