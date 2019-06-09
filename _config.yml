@@ -2,7 +2,7 @@
 
 # Website settings
 title: Vitalii Lototskyi
-description: Vitalii`s blog.
+description: Vitalii`s cv.
 keywords: Vitalii,Lototskyi,blog,Goaranos,github,gh-pages
 baseurl:  /cv 
 # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-code-fork
     - name: fa-server
-  desc: At the moment I am working as a full stack web developer. I started my work as a hobby. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
+  desc: At the moment I am working as a full stack web developer and devops. I started my work as a hobby. However, over time, with every new project, I was convinced that this is my business, which I know how to do and want to do it quickly and qualitatively, so always, fulfilling every other task, I put in it maximum effort, enthusiasm and positive.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
